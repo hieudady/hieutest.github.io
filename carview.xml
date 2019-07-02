@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns="http://schemas.datacontract.org/2004/07/eCRM.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+   <Authentication>True</Authentication>
+   <OutputTime>2019/03/01 13:09:41</OutputTime>
+   <Status>1</Status>
+   <AssessInfo>
+      <Item>
+         <AssessorName>ネクステージ</AssessorName>
+         <ProviderID>12771</ProviderID>
+         <ProviderName>株式会社ネクステージ</ProviderName>
+         <CustomerID>26920563</CustomerID>
+         <ContactID>7905061</ContactID>
+         <ContactDate>2019/02/22 0:33:12</ContactDate>
+         <Terminal>PC</Terminal>
+         <IsBroken>普通車</IsBroken>
+         <CarType>国産車</CarType>
+         <Name>喜多　奈穂美</Name>
+         <NameKana>－</NameKana>
+         <PostalCode>910-0207</PostalCode>
+         <Region>福井県</Region>
+         <Address>坂井市 丸岡町山久保１３－５</Address>
+         <Tel1>090-5178-7819</Tel1>
+         <Tel2 />
+         <Fax />
+         <EMail>nao331029@yahoo.co.jp</EMail>
+         <Model>トヨタ アクア</Model>
+         <ModelYear>2014年/平成26年</ModelYear>
+         <Grade />
+         <Color />
+         <Transmission />
+         <Steering />
+         <Door />
+         <Displacement />
+         <FuelType />
+         <Mileage>30,001～35,000</Mileage>
+         <NextCheck />
+         <Option />
+         <Comment />
+         <CVStatus>有効</CVStatus>
+         <CVComment />
+      </Item>
+      <Item>
+         <AssessorName>ネクステージ</AssessorName>
+         <ProviderID>12771</ProviderID>
+         <ProviderName>株式会社ネクステージ</ProviderName>
+         <CustomerID>26920587</CustomerID>
+         <ContactID>7905067</ContactID>
+         <ContactDate>2019/02/22 1:00:08</ContactDate>
+         <Terminal>PC</Terminal>
+         <IsBroken>普通車</IsBroken>
+         <CarType>国産車</CarType>
+         <Name>小林　理紗</Name>
+         <NameKana>－</NameKana>
+         <PostalCode>226-0011</PostalCode>
+         <Region>神奈川県</Region>
+         <Address>横浜市緑区 中山町８３１</Address>
+         <Tel1>090-4614-2373</Tel1>
+         <Tel2 />
+         <Fax />
+         <EMail>risapyon119@yahoo.co.jp</EMail>
+         <Model>トヨタ カムリ</Model>
+         <ModelYear>2004年/平成16年</ModelYear>
+         <Grade />
+         <Color />
+         <Transmission />
+         <Steering />
+         <Door />
+         <Displacement />
+         <FuelType />
+         <Mileage>55,001～60,000</Mileage>
+         <NextCheck />
+         <Option />
+         <Comment />
+         <CVStatus>有効</CVStatus>
+         <CVComment />
+      </Item>
+      <Item>
+         <AssessorName>ネクステージ</AssessorName>
+         <ProviderID>12771</ProviderID>
+         <ProviderName>株式会社ネクステージ</ProviderName>
+         <CustomerID>26920597</CustomerID>
+         <ContactID>7905069</ContactID>
+         <ContactDate>2019/02/22 1:12:42</ContactDate>
+         <Terminal>PC</Terminal>
+         <IsBroken>普通車</IsBroken>
+         <CarType>国産車</CarType>
+         <Name>野崎　芳裕</Name>
+         <NameKana>－</NameKana>
+         <PostalCode>462-0844</PostalCode>
+         <Region>愛知県</Region>
+         <Address>名古屋市北区 清水３－９－１</Address>
+         <Tel1>080-5161-0464</Tel1>
+         <Tel2 />
+         <Fax />
+         <EMail>yoshi@nzk.jpn.org</EMail>
+         <Model>ホンダ フィットハイブリッド</Model>
+         <ModelYear>2014年/平成26年</ModelYear>
+         <Grade />
+         <Color />
+         <Transmission />
+         <Steering />
+         <Door />
+         <Displacement />
+         <FuelType />
+         <Mileage>90,001～100,000</Mileage>
+         <NextCheck />
+         <Option />
+         <Comment />
+         <CVStatus>有効</CVStatus>
+         <CVComment />
+      </Item>
+      <Item>
+         <AssessorName>ネクステージ</AssessorName>
+         <ProviderID>12771</ProviderID>
+         <ProviderName>株式会社ネクステージ</ProviderName>
+         <CustomerID>26920619</CustomerID>
+         <ContactID>7905073</ContactID>
+         <ContactDate>2019/02/22 1:25:53</ContactDate>
+         <Terminal>PC</Terminal>
+         <IsBroken>普通車</IsBroken>
+         <CarType>国産車</CarType>
+         <Name>北村　優也</Name>
+         <NameKana>－</NameKana>
+         <PostalCode>874-0931</PostalCode>
+         <Region>大分県</Region>
+         <Address>別府市 西野口町１３－２０晃生コーポ３０５号</Address>
+         <Tel1>090-9652-9468</Tel1>
+         <Tel2 />
+         <Fax />
+         <EMail>iceypiano@yahoo.co.jp</EMail>
+         <Model>トヨタ ハイラックスサーフ</Model>
+         <ModelYear>2001年/平成13年</ModelYear>
+         <Grade />
+         <Color />
+         <Transmission />
+         <Steering />
+         <Door />
+         <Displacement />
+         <FuelType />
+         <Mileage>150,001～</Mileage>
+         <NextCheck />
+         <Option />
+         <Comment />
+         <CVStatus>有効</CVStatus>
+         <CVComment />
+      </Item>
+      <Item>
+         <AssessorName>ネクステージ</AssessorName>
+         <ProviderID>12771</ProviderID>
+         <ProviderName>株式会社ネクステージ</ProviderName>
+         <CustomerID>26920637</CustomerID>
+         <ContactID>7905077</ContactID>
+         <ContactDate>2019/02/22 1:40:55</ContactDate>
+         <Terminal>PC</Terminal>
+         <IsBroken>普通車</IsBroken>
+         <CarType>国産車</CarType>
+         <Name>ヤマモトヒロシ</Name>
+         <NameKana>－</NameKana>
+         <PostalCode>488-0033</PostalCode>
+         <Region>愛知県</Region>
+         <Address>尾張旭市 東本地ケ原町東本地ヶ原３－１０４</Address>
+         <Tel1>090-7686-9855</Tel1>
+         <Tel2 />
+         <Fax />
+         <EMail>aiamore2006@yahoo.co.jp</EMail>
+         <Model>ホンダ ライフ</Model>
+         <ModelYear>2008年/平成20年</ModelYear>
+         <Grade />
+         <Color />
+         <Transmission />
+         <Steering />
+         <Door />
+         <Displacement />
+         <FuelType />
+         <Mileage>110,001～120,000</Mileage>
+         <NextCheck />
+         <Option />
+         <Comment />
+         <CVStatus>有効</CVStatus>
+         <CVComment />
+      </Item>
+   </AssessInfo>
+</Root>
